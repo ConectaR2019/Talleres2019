@@ -2,7 +2,7 @@
 
 Material para los talleres de ConectaR
 
-[Taller 1]() - Crear API's con código R usando plumber, 9am en el aula 204
+[Taller 1](https://github.com/FvD/conectar2019_plumber) - Crear API's con código R usando plumber, 9am en el aula 204
 
 [Taller 2]() - Documentos dinámicos, trabajo colaborativo y control de versiones con Rmarkdown y GitHub, 9am en el aula 206
 
