@@ -1,5 +1,5 @@
 # conectar2019
-Material para el Taller 2 
+Material para el Taller 2 [Aqui](https://natydasilva.github.io/Taller_ConectaR/#1)
 
 Para el taller es necesario que tengan instalado versiones actualizadas de R y RStudio
 A su vez es necesario instalar Git:
